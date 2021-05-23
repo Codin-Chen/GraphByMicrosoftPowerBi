@@ -1,2 +1,2 @@
 # GraphByMicrosoftPowerBi
-chart
+https://app.powerbi.com/view?r=eyJrIjoiNzYzNDUzZTktMWJlMy00NGEwLWE1M2QtOTAwYmZjYzYzYzdlIiwidCI6ImQ4YTFmMTQxLTc3MjgtNDk1Yi1iZjIxLWQ1YTk2NWIyN2E2MCIsImMiOjEwfQ%3D%3D&pageName=ReportSection6acf463306e084299951
